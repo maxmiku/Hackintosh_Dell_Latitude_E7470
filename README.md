@@ -1,3 +1,23 @@
+
+
+# Hackintosh_Dell_Latitude_E7470 Ventura
+
+## Directory structure
+
+|           Name            |                         Description                          |
+| :-----------------------: | :----------------------------------------------------------: |
+|       EFI_Monterey        | EFI for monterey ([Smuger12/Hackintosh_Dell_Latitude_E7470](https://github.com/Smuger12/Hackintosh_Dell_Latitude_E7470)) |
+|     ✅ **EFI_Ventura**     | OC 0.8.5 for Ventura (Upgrade from [EFI_Monterey](https://github.com/Smuger12/Hackintosh_Dell_Latitude_E7470)) **(Recommend)** |
+| EFI_Ventura_NoTouchScreen | EFI for Ventura (Modified from [here](https://osxlatitude.com/forums/topic/9179-dell-latitude-e7x70-clover-and-opencore/#comment-104256)) but **can't use touchscreen** |
+
+Thanks for [Jake Lo](https://osxlatitude.com/forums/topic/9179-dell-latitude-e7x70-clover-and-opencore/#comment-104256) and  [Smuger12](https://github.com/Smuger12/Hackintosh_Dell_Latitude_E7470) work. 
+
+
+
+The following is the content of the old warehouse.
+
+------
+
 **pls don't use this ~~shit~~ there is better [ones](https://osxlatitude.com/forums/topic/9179-dell-latitude-e7x70-clover-and-opencore/?do=findComment&comment=104256)**
 
 <br>
@@ -117,7 +137,7 @@ You need to plug in the installation USB created previously everytime you start 
 <br>
 
 Choose layout file from [`Keyboard_Layouts`](./Keyboard_Layouts) repo directory and put it in `/Library/Keyboard Layouts` directory.
-   
+
 </details>
 
 <details>
