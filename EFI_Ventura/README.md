@@ -10,5 +10,5 @@ Opencore has been upgraded to be compatible with ventura.
 
 
 
-
-
+If you can enter installing page but can't enter system. Try turn SIP off.
+如果你可以进入安装界面但是进入不了系统，试试关掉SIP。
