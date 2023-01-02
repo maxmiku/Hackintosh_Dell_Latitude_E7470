@@ -7,8 +7,8 @@
 |           Name            |                         Description                          |
 | :-----------------------: | :----------------------------------------------------------: |
 |       EFI_Monterey        | EFI for monterey ([Smuger12/Hackintosh_Dell_Latitude_E7470](https://github.com/Smuger12/Hackintosh_Dell_Latitude_E7470)) |
-|     ✅ **EFI_Ventura**     | OC 0.8.5 for Ventura (Upgrade from [EFI_Monterey](https://github.com/Smuger12/Hackintosh_Dell_Latitude_E7470)) **(Recommend)** |
-| EFI_Ventura_NoTouchScreen | EFI for Ventura (Modified from [here](https://osxlatitude.com/forums/topic/9179-dell-latitude-e7x70-clover-and-opencore/#comment-104256)) but **can't use touchscreen** |
+|     **EFI_Ventura**     | OC 0.8.5 for Ventura (Upgrade from [EFI_Monterey](https://github.com/Smuger12/Hackintosh_Dell_Latitude_E7470)) **sleep has problem** |
+| ✅ EFI_Ventura_NoTouchScreen | EFI for Ventura (Modified from [here](https://osxlatitude.com/forums/topic/9179-dell-latitude-e7x70-clover-and-opencore/#comment-104256)) but **can't use touchscreen** **(Recommend)** |
 
 Thanks for [Jake Lo](https://osxlatitude.com/forums/topic/9179-dell-latitude-e7x70-clover-and-opencore/#comment-104256) and  [Smuger12](https://github.com/Smuger12/Hackintosh_Dell_Latitude_E7470) work. 
 
